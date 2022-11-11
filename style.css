@@ -6,6 +6,10 @@
     /* outline: 1px solid #fc2c38; */
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 :root {
     --primary-color: #fc2c38;
     --hover-color: #f5f5f5;
